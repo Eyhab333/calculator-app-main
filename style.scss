@@ -579,7 +579,6 @@ ul {
     background: #3a4663;
 
     main {
-      // padding-bottom: 70px;
 
       .head {
         .calc-and-range {
@@ -588,7 +587,7 @@ ul {
           justify-content: space-between;
           h1 {
             font-weight: 700;
-            font-size: 32px;
+            font-size: toRem(32);
             line-height: 29px;
             text-align: center;
             letter-spacing: -0.533333px;
@@ -610,7 +609,7 @@ ul {
         .screen {
           background: #181f33;
           border-radius: 10px;
-          height: 88px;
+          height: 128px;
           margin-top: 32px;
           margin-bottom: 24px;
           display: flex;
@@ -618,8 +617,8 @@ ul {
           justify-content: flex-end;
           padding-right: 24px;
           font-weight: 700;
-          font-size: 40px;
-          line-height: 37px;
+          font-size: toRem(56);
+          line-height: 51px;
           text-align: right;
           letter-spacing: -0.666667px;
           color: #ffffff;
@@ -642,7 +641,7 @@ ul {
           height: 64px;
           width: 100%;
           font-weight: 700;
-          font-size: 32px;
+          font-size: toRem(40);
           line-height: 29px;
           color: #434a59;
           display: flex;
@@ -651,7 +650,7 @@ ul {
         }
 
         .del {
-          font-size: 20px;
+          font-size: toRem(28);
           color: white;
           background: #647198;
           box-shadow: inset 0px -4px 0px #414e73;
@@ -662,7 +661,7 @@ ul {
           grid-row: 5 / 6;
           height: 64px;
           font-weight: 700;
-          font-size: 20px;
+          font-size: toRem(28);
           line-height: 29px;
           color: white;
           background: #647198;
@@ -676,7 +675,7 @@ ul {
           box-shadow: inset 0px -4px 0px #93261a;
           color: white;
           height: 64px;
-          font-size: 20px;
+          font-size: toRem(28);
         }
       }
     }

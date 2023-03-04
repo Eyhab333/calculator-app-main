@@ -505,7 +505,7 @@ ul {
   }
   .theme1 main .head .calc-and-range h1 {
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     line-height: 29px;
     text-align: center;
     letter-spacing: -0.533333px;
@@ -522,7 +522,7 @@ ul {
   .theme1 main .head .screen {
     background: #181f33;
     border-radius: 10px;
-    height: 88px;
+    height: 128px;
     margin-top: 32px;
     margin-bottom: 24px;
     display: flex;
@@ -530,8 +530,8 @@ ul {
     justify-content: flex-end;
     padding-right: 24px;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 37px;
+    font-size: 3.5rem;
+    line-height: 51px;
     text-align: right;
     letter-spacing: -0.666667px;
     color: #ffffff;
@@ -552,7 +552,7 @@ ul {
     height: 64px;
     width: 100%;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2.5rem;
     line-height: 29px;
     color: #434a59;
     display: flex;
@@ -560,7 +560,7 @@ ul {
     justify-content: center;
   }
   .theme1 main .grid .del {
-    font-size: 20px;
+    font-size: 1.75rem;
     color: white;
     background: #647198;
     box-shadow: inset 0px -4px 0px #414e73;
@@ -570,7 +570,7 @@ ul {
     grid-row: 5/6;
     height: 64px;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 1.75rem;
     line-height: 29px;
     color: white;
     background: #647198;
@@ -583,7 +583,7 @@ ul {
     box-shadow: inset 0px -4px 0px #93261a;
     color: white;
     height: 64px;
-    font-size: 20px;
+    font-size: 1.75rem;
   }
 }
 /*############ for-big-desktop-up ##########*//*# sourceMappingURL=style.css.map */
