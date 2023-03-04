@@ -543,7 +543,7 @@ ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    gap: 13px;
+    gap: 1.5rem;
   }
   .theme1 main .grid .grid-item {
     background: #eae3dc;
