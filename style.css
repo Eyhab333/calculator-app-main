@@ -497,9 +497,6 @@ ul {
   .theme1 {
     background: #3a4663;
   }
-  .theme1 main {
-    padding-bottom: 70px;
-  }
   .theme1 main .head .calc-and-range {
     display: flex;
     align-items: center;
