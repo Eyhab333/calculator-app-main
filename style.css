@@ -462,6 +462,7 @@ ul {
 @media (min-width: 1200px) {
   body {
     padding: 6.125rem 28.125rem;
+    padding-bottom: 0;
   }
   .theme {
     display: flex;

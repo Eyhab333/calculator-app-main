@@ -536,6 +536,7 @@ ul {
 @media (min-width: 1200px) {
   body {
     padding: toRem(98) toRem(450);
+    padding-bottom: 0;
   }
 
   .theme {
