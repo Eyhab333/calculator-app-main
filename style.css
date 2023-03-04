@@ -76,6 +76,9 @@ ul {
   .theme1 {
     background: #3a4663;
   }
+  .theme1 main {
+    padding-bottom: 70px;
+  }
   .theme1 main .head .calc-and-range {
     display: flex;
     align-items: center;
@@ -129,22 +132,14 @@ ul {
     box-shadow: inset 0px -4px 0px #b3a497;
     border-radius: 5px;
     height: 64px;
-    width: 60px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .theme1 main .grid .grid-item button {
-    background: #eae3dc;
-    box-shadow: inset 0px -4px 0px #b3a497;
-    border-radius: 5px;
-    height: 64px;
-    width: 60px;
     width: 100%;
     font-weight: 700;
     font-size: 32px;
     line-height: 29px;
     color: #434a59;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .theme1 main .grid .del {
     font-size: 20px;
@@ -168,7 +163,7 @@ ul {
     grid-column: 3/5;
     grid-row: 5/6;
     background: #d03f2f;
-    box-shadow: inset 0px -4px 0px #93261A;
+    box-shadow: inset 0px -4px 0px #93261a;
     color: white;
     height: 64px;
     width: 133px;
